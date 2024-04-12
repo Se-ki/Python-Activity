@@ -1,0 +1,21 @@
+PERSONAL PROFILE
+Firstname:  Christian Kyle 
+Lastname:  Autor 
+Gender:  Male 
+Age:  20 
+Address:  Cabadbaran City 
+Postal Code:  8605 
+Status:  single 
+Phone Number:  3453453424 
+Birthday:  March 14, 2003 
+Birth Place:  Cebu City 
+Course:  Bachelor of Science in Information Technology 
+Sports:  Basketball 
+My Idol:  Park Jimin 
+Hobbies:  Playing mobile legends 
+My Favorite Color:  Black 
+My Favorite Song: Standing Next to you 
+My Favorite Movies: Avengers 
+My Favorite Series: Juan Dela Cruz 
+My Favorite Brand: Oxygen 
+My Favorite Programming Language: Python

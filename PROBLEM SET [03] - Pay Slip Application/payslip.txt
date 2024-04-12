@@ -1,0 +1,17 @@
+==============PAYSLIP==============
+
+======EMPLOYEE INFORMATION=======
+Employee         :  Christian Kyle Autor
+Rendered Hours   :  8
+Rate per Hour    :  120.0
+Gross Salary     :  960.0
+
+=============DEDUCTIONS===========
+SSS              :  200.0
+PhilHealth       :  200.0
+Loans            :  0.0
+Tax              :  336.0
+Total Deductions :  736.0
+
+==========NET SALARY===============
+Php.  224.0
